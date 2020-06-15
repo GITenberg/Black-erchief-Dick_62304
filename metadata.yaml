@@ -1,0 +1,42 @@
+_repo: Black-erchief-Dick_62304
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: McFee, William
+    alias: McFee, William Morley Punshon
+    birthdate: 1881
+    deathdate: 1966
+    gutenberg_agent_id: '34733'
+    url: http://www.gutenberg.org/2009/agents/34733
+    wikipedia: https://en.wikipedia.org/wiki/William_McFee
+creator:
+  author:
+    agent_name: Allingham, Margery
+    aliases:
+    - Carter, Margery Allingham
+    - Youngman-Carter, Margery Allingham
+    birthdate: 1904
+    deathdate: 1966
+    gutenberg_agent_id: '51887'
+    url: http://www.gutenberg.org/2009/agents/51887
+    wikipedia: https://en.wikipedia.org/wiki/Margery_Allingham
+description: ''
+gutenberg_issued: '2020-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62304'
+  lccn: '23016270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mersea Island (England) -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Smugglers -- Fiction'
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Fiction'
+- GITenberg
+title: Black'erchief Dick
+url: http://www.gutenberg.org/ebooks/62304
